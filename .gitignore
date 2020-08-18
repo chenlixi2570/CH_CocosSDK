@@ -1,6 +1,7 @@
 /library
 /local
 /temp
+/settings
 /tools/gen_data/out
 # /build
 **/node_modules

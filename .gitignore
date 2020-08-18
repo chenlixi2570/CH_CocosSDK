@@ -1,0 +1,8 @@
+/library
+/local
+/temp
+/tools/gen_data/out
+/build
+**/node_modules
+# **/fire
+# **/out_test

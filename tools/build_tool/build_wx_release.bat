@@ -1,0 +1,1 @@
+build.exe wx true

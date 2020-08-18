@@ -1,0 +1,18 @@
+{
+  "certificatePath": "E:\\cocosProject\\gunMusic\\vivo\\certificate.pem",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "E:\\CocosAssets\\oppoIcon\\pitHelp.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1056",
+  "name": "矿洞救援",
+  "npmPath": "",
+  "package": "com.quyou.kdjy.vivominigame",
+  "privatePath": "E:\\cocosProject\\gunMusic\\vivo\\private.pem",
+  "showNpmPath": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}

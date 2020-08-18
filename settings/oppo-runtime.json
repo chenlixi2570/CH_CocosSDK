@@ -1,0 +1,18 @@
+{
+  "certificatePath": "E:\\cocosProject\\gunMusic\\certificate.pem",
+  "deviceOrientation": "portrait",
+  "disabledMode": "",
+  "icon": "E:\\CocosAssets\\oppoIcon\\gunMusic1.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1050",
+  "name": "电音枪手",
+  "npmPath": "",
+  "package": "com.quyou.dyqs.nearme.gamecenter",
+  "privatePath": "E:\\cocosProject\\gunMusic\\private.pem",
+  "showNpmPath": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "versionCode": "2",
+  "versionName": "1.0.1"
+}
